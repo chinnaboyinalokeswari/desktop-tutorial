@@ -1,4 +1,14 @@
-# Web development:
+---
+title: "Web development:"
+seoTitle: "web development"
+seoDescription: "Web development refers to the creating, building, and maintaining of websites. It includes aspects such as web design, web publishing, web programming."
+datePublished: Wed Nov 23 2022 14:44:34 GMT+0000 (Coordinated Universal Time)
+cuid: clatrbi8l000208lbekgxcwav
+slug: web-development
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/Z1HXJQ2aWIA/upload/v1669214124596/Httn0l-Vy.jpeg
+tags: css, javascript, web-development, html5
+
+---
 
 Hello everyone.....Here our learnings to bulid over credibility in the tech world.let's get started ,firstly congratualtions!!!!....your on the right path to learn new things through your learnings.
 
